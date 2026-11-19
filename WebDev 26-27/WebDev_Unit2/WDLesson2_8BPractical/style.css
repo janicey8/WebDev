@@ -38,6 +38,7 @@ nav a {
 #body {
   height: 395px;
   display: flex;
+  box-shadow: 2px 2px grey;
 }
 
 #links {
